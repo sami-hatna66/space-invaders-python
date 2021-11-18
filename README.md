@@ -1,6 +1,6 @@
 # Space Invaders
 
-Space Invaders coded in Python with PyQt for gui
+Space Invaders coded in Python/Qt
 
 ## Screenshots
 
